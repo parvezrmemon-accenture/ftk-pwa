@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ftk-pwa/static/css/main.e6c13ad2.css",
-    "main.js": "/ftk-pwa/static/js/main.67fe2600.js",
+    "main.css": "/ftk-pwa/static/css/main.f855e6bc.css",
+    "main.js": "/ftk-pwa/static/js/main.c5aa6f40.js",
     "static/js/584.d9ea004e.chunk.js": "/ftk-pwa/static/js/584.d9ea004e.chunk.js",
     "service-worker.js": "/ftk-pwa/service-worker.js",
     "index.html": "/ftk-pwa/index.html",
-    "main.e6c13ad2.css.map": "/ftk-pwa/static/css/main.e6c13ad2.css.map",
-    "main.67fe2600.js.map": "/ftk-pwa/static/js/main.67fe2600.js.map",
+    "main.f855e6bc.css.map": "/ftk-pwa/static/css/main.f855e6bc.css.map",
+    "main.c5aa6f40.js.map": "/ftk-pwa/static/js/main.c5aa6f40.js.map",
     "584.d9ea004e.chunk.js.map": "/ftk-pwa/static/js/584.d9ea004e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.67fe2600.js"
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c5aa6f40.js"
   ]
 }
