@@ -1,12 +1,12 @@
 import React from "react";
 import { Box, Typography } from "@mui/material";
-import { BrowserRouter as Router } from "react-router-dom";
+import { BrowserRouter as Router, HashRouter } from "react-router-dom";
 import AppRoutes from "./routes/AppRoutes";
 import FooterNav from "./components/FooterNav";
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
       <Box sx={{ display: "flex", flexDirection: "column", height: "100vh" }}>
         {/* Header */}
         <Box sx={{ p: 2, bgcolor: "primary.main", color: "white" }}>
@@ -21,7 +21,7 @@ function App() {
         {/* Footer navigation */}
         <FooterNav />
       </Box>
-    </Router>
+    </HashRouter>
   );
 }
 
